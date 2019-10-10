@@ -7,7 +7,7 @@ Build and run example service: \
 ``mvn spring-boot:run`` \
 \
 Second Step  \
-Build and run Zuul proxy:
+Build and run Zuul proxy: \
 ``cd ./zuul`` \
 ``mvn clean install`` \
 ``mvn spring-boot:run`` \
